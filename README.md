@@ -1,8 +1,11 @@
-# Tạo chức năng lựa chọn địa chỉ trên website bằng Ajax
+# Tạo chức năng lựa chọn địa điểm trên website bằng Ajax
 ## Lợi ích
-Chương trình giúp bạn tạo ra chức năng lựa chọn địa chỉ trên website bán hàng bằng Php, Mysql + AJAX mà không cần load trang.
+Nếu bạn đang phát triển một trang web bán hàng, đặt phòng khách sạn, tour du lịch hoặc đặt vé máy bay thì chức năng chọn địa điểm là một phần không thể thiếu. Chúng ta có thể dễ dàng xây dựng chức năng này bằng sự kết hợp của PHP, MySQL và Ajax.
 ## Video hướng dẫn
-Click vào đây để xem video hướng dẫn chi tiết tư duy và các triển khai https://www.youtube.com/watch?v=2yu7wmaADnY
+You can download this cheat sheet as a Markdown file for use in your Markdown application.
+
+[Bạn có thể click vào đây để xem trực tiếp video hướng dẫn này trên youtube.com](https://www.youtube.com/watch?v=2yu7wmaADnY)
+
 
 [![Tạo chức năng chọn địa chỉ bằng Ajax](https://img.youtube.com/vi/2yu7wmaADnY/0.jpg)](https://www.youtube.com/watch?v=2yu7wmaADnY)
 
